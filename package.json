@@ -1,0 +1,19 @@
+{
+  "name": "astfel-engine",
+  "version": "1.0.0",
+  "description": "A simple engine for 2d & 3d canvas rendering",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MagnusThor/astfel-engine.git"
+  },
+  "author": "magnus thor",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MagnusThor/astfel-engine/issues"
+  },
+  "homepage": "https://github.com/MagnusThor/astfel-engine#readme"
+}
